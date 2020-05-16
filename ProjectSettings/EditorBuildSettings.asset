@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/XRInteractionDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARAnotationsPlacement.unity
+    guid: 325efa940370e49cc8ef5ee244746732
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1c9011df34d5941768f92469deb9f158,
       type: 2}
